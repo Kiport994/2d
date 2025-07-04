@@ -1,5 +1,6 @@
 # 2d
 little project
+
 1.Trieda Drop nám slúži na to, aby postava po stlačení BACKSPACE mohla zhadzovať predmety z batohu na zem.
 
 2.Trieda Fire umožňuje postave vystreliť po stlačení SPACE, čím sa nastaví pohyb v smere postavy.
