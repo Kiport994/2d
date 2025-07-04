@@ -78,5 +78,3 @@ Kolízny systém nielenže zabraňuje Ripleymu prechádzať cez steny, ale tiež
 Niektoré predmety (Usable) na scéne možno zdvihnúť a použiť na riešenie herných úloh (napr. odomknúť dvere pomocou prístupovej karty alebo opraviť generátor reaktora).
 Konečným cieľom je preskúmať lokalitu bojom s nepriateľmi a používaním inventára na otvorenie zamknutých dverí a zbieranie zdrojov a nakoniec uniknúť z miestnosti prekonaním prekážok, ktoré sa objavia.
 
-toto 5 minut video
-https://drive.google.com/file/d/120WkJk0fVf28ZRfzM1b581VmX_VSRcX0/view?usp=sharing
