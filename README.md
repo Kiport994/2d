@@ -1,5 +1,5 @@
-# 2d
-little project
+# 2d-game
+Developed a 2D action game involving combat with aliens; currently in beta stage.
 
 1.Trieda Drop nám slúži na to, aby postava po stlačení BACKSPACE mohla zhadzovať predmety z batohu na zem.
 
